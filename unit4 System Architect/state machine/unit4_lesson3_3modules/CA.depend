@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1696515751 source:f:\keroles\work\unit4\1\linked_list\ca\main.c
+	"CA.h"
+
+1696462223 f:\keroles\work\unit4\1\linked_list\ca\ca.h
+	<stdio.h>
+	<stdlib.h>
+	"state.h"
+
+1696461478 f:\keroles\work\unit4\1\linked_list\ca\state.h
+
+1696515521 source:f:\keroles\work\unit4\1\linked_list\ca\ca.c
+	"CA.h"
+

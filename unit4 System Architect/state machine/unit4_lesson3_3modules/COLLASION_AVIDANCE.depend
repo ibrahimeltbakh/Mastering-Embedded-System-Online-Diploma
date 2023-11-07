@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1696539131 source:f:\keroles\work\unit4\2\unit4_lesson3_3modules\dc.c
+	"DC.h"
+
+1696524667 f:\keroles\work\unit4\2\unit4_lesson3_3modules\dc.h
+	"state.h"
+
+1696524851 f:\keroles\work\unit4\2\unit4_lesson3_3modules\state.h
+	<stdio.h>
+	<stdlib.h>
+
+1696537307 source:f:\keroles\work\unit4\2\unit4_lesson3_3modules\main.c
+	"CA.h"
+	"US.h"
+	"DC.h"
+
+1696535603 f:\keroles\work\unit4\2\unit4_lesson3_3modules\ca.h
+	"state.h"
+
+1696523793 f:\keroles\work\unit4\2\unit4_lesson3_3modules\us.h
+	"state.h"
+
+1696537595 source:f:\keroles\work\unit4\2\unit4_lesson3_3modules\ca.c
+	"CA.h"
+
+1696537434 source:f:\keroles\work\unit4\2\unit4_lesson3_3modules\us.c
+	"US.h"
+

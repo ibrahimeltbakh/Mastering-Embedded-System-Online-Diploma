@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1699040170 source:f:\keroles\work\unit4\project2\main.c
+	"Student_DataBase.h"
+
+1699040251 f:\keroles\work\unit4\project2\student_database.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
+1699040596 source:f:\keroles\work\unit4\project2\student_database.c
+	"Student_DataBase.h"
+
+1699041246 source:f:\keroles\work\unit4\project2 - copy\main.c
+	"Student_DataBase.h"
+
+1699041541 f:\keroles\work\unit4\project2 - copy\student_database.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+
+1699042100 source:f:\keroles\work\unit4\project2 - copy\student_database.c
+	"Student_DataBase.h"
+

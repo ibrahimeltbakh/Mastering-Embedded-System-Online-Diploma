@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695387552 source:f:\keroles\work\unit4\1\lifo\main.c
+	"LIFO.h"
+
+1695387489 f:\keroles\work\unit4\1\lifo\lifo.h
+	<stdio.h>
+	<stdlib.h>
+
+1695387636 source:f:\keroles\work\unit4\1\lifo\lifo.c
+	"LIFO.h"
+

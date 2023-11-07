@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695746912 source:f:\keroles\work\unit4\1\linked_list\linked_list\main.c
+	"linked_list.h"
+
+1695746386 f:\keroles\work\unit4\1\linked_list\linked_list\linked_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1695745201 source:f:\keroles\work\unit4\1\linked_list\linked_list\linked_list.c
+	"linked_list.h"
+
